@@ -6,7 +6,7 @@ width: 100%;
 margin: 0px;
 }
 
-#status
+#status, #number_of_objects
 {
 font-size: 18px;
 }
@@ -19,4 +19,5 @@ canvas
 {
 box-shadow: 10px 10px 10px rgb(0, 234, 255);
 border-radius: 20px;
+margin-top: 30px;
 }
